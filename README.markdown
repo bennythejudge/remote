@@ -1,5 +1,7 @@
 # Distributed Companies
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/remote.svg)](https://www.guardrails.io)
+
 This is a list of companies that use distributed teams.
 Please add your company or companies you know about via pull request or just
 tweet me the info at @fuzzleonard and I will add it for you.
